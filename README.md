@@ -121,7 +121,7 @@ The neural networks are trained over multiple generations, with the fitness of t
 The simulation is visualized using **Pygame**, which displays the current planetary system's state. Information such as generation, genome ID, fitness, and simulation speed is displayed in the Pygame window.
 
 **Example Visualization**:
-![Simulation Screenshot](sandbox:/mnt/data/A_visual_representation_of_a_planetary_simulation_.png)
+![Simulation Screenshot](.png)
 
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
