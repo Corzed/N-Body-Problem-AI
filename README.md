@@ -29,7 +29,7 @@ The core idea is to explore how neural networks can generate stable orbits or co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/corzed/n-problem-ai.git
+   git clone https://github.com/corzed/n-body-problem-ai.git
    cd n-body-neat-simulation
    ```
 
